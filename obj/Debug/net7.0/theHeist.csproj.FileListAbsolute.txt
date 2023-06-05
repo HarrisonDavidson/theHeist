@@ -1,0 +1,15 @@
+C:\Users\bigol\workspace\theHeist\bin\Debug\net7.0\theHeist.exe
+C:\Users\bigol\workspace\theHeist\bin\Debug\net7.0\theHeist.deps.json
+C:\Users\bigol\workspace\theHeist\bin\Debug\net7.0\theHeist.runtimeconfig.json
+C:\Users\bigol\workspace\theHeist\bin\Debug\net7.0\theHeist.dll
+C:\Users\bigol\workspace\theHeist\bin\Debug\net7.0\theHeist.pdb
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.csproj.AssemblyReference.cache
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.AssemblyInfoInputs.cache
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.AssemblyInfo.cs
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.csproj.CoreCompileInputs.cache
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.dll
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\refint\theHeist.dll
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.pdb
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\theHeist.genruntimeconfig.cache
+C:\Users\bigol\workspace\theHeist\obj\Debug\net7.0\ref\theHeist.dll
